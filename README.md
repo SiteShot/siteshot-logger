@@ -7,7 +7,7 @@ Uses ```Application.Name``` to set name of running app
 
 ## Methods
 
-```debug(messageArgs)``` - non-important debug messages
-```warn(messageArgs)```
-```error(messageArgs)```
-```info(messageArgs)```
+* ```debug(messageArgs)``` - non-important debug messages
+* ```warn(messageArgs)```
+* ```error(messageArgs)```
+* ```info(messageArgs)```
